@@ -1,0 +1,7 @@
+﻿  aes_128.cpp
+G:\학습자료\암호론\aes_128.cpp(78,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+G:\학습자료\암호론\aes_128.cpp(80,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+G:\학습자료\암호론\aes_128.cpp(140,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+G:\학습자료\암호론\aes_128.cpp(150,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+G:\학습자료\암호론\aes_128.cpp(150,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  AES_128.vcxproj -> C:\Users\JYC\source\repos\AES_128\Debug\AES_128.exe
